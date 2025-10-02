@@ -32,9 +32,8 @@ This repo includes projects that highlight my analytical and problem-solving abi
 
 ## 📊 Featured Projects  
 - [📌 Sales Performance Dashboard (Excel)](link-to-your-repo-or-folder)  
-- [📌 Customer Insights using SQL](link-to-your-repo-or-folder)  
-- [📌 Movie Dataset Analysis with Python](link-to-your-repo-or-folder)  
-- [📌 Power BI Financial Dashboard](link-to-your-repo-or-folder)  
+- [📌 Library Management Insights using SQL](link-to-your-repo-or-folder)  
+- [📌 Power BI HealthCare Dashboard](link-to-your-repo-or-folder)  
 
 ---
 
